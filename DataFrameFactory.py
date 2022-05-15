@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 class DataFrameFactory:
     def __init__(self) -> None:
         self.data_frame = pd.DataFrame()
